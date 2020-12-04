@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest(Lab_9.3).cpp
+E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_9.3\Lab_9.3\Lab_9.3.cpp(46,31): warning C4101: 'index': unreferenced local variable
+     Creating library E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_9.3\Debug\UnitTest(Lab_9.3).lib and object E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_9.3\Debug\UnitTest(Lab_9.3).exp
+  UnitTest(Lab_9.3).vcxproj -> E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_9.3\Debug\UnitTest(Lab_9.3).dll
